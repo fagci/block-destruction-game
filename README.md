@@ -4,3 +4,4 @@
 
 [Demo](https://mikhail-yudin.ru/projects/block-destruction-game)
 
+[Предыстория (Russian)](https://mikhail-yudin.ru/frontend/html5-canvas-block-destruction-game/)
